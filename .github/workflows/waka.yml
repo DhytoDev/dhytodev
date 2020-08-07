@@ -3,8 +3,8 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 06.00 am UTC+8
-    - cron: '0 22 * * *'
+    # Runs at 06.40 am UTC+8
+    - cron: '40 22 * * *'
 
 jobs:
   update-readme:
@@ -17,12 +17,12 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_LINES_OF_CODE: "True"
           SHOW_COMMIT: "True"
-          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_DAYS_OF_WEEK: "True"
           SHOW_LANGUAGE: "True"
           SHOW_OS: "True"
           SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "True"
           SHOW_EDITORS: "True"
-          SHOW_SHORT_INFO: "True"
+          SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "True" 
           
