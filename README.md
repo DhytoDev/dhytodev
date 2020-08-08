@@ -1,4 +1,4 @@
-### Hello World 👋
+# Hi, I'm Fordyta Abubakar a.k.a @dhytodev 👋
 
 <!--
 **DhytoDev/dhytodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me 😄
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-142-blue)
