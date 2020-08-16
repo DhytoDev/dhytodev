@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-340-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-90279%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-90279%20Lines%20of%20code-blue)
 
-**I'm an early 🐤** 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    62 commits     ███████████░░░░░░░░░░░░░░   46.62% 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 🌙 Night      22 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.54%
 
 ```
-📅 **I'm Most Productive on Saturdays** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday       18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.53% 
@@ -43,27 +43,27 @@ Sunday       16 commits     ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Asia/Makassar
+⌚︎ Time zone: Asia/Makassar
 
-💬 Languages: 
+💬 Programming Languages: 
 Dart                     19 hrs 8 mins       ████████████████████████░   98.7% 
 JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27% 
 Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
-🔥 Editors: 
+🔥 Code Editors: 
 VS Code                  19 hrs 23 mins      █████████████████████████   100.0%
 
-💻 Operating Systems: 
+💻 Operating System: 
 Mac                      19 hrs 23 mins      █████████████████████████   100.0%
 
 ```
 
-**I mostly code in Java** 
+**I Mostly Code in Java** 
 
 ```text
 Java                     22 repos            ██████████████░░░░░░░░░░░   57.89% 
