@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-340-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-339-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-90279%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15893%20Lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -49,13 +49,17 @@ Sunday       16 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time zone: Asia/Makassar
 
 💬 Programming Languages: 
-Dart                     15 hrs 35 mins      █████████████████████████   100.0%
+Dart                     13 hrs 42 mins      ████████████████████████░   96.36% 
+Markdown                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.88% 
+YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.66% 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Code Editors: 
-VS Code                  15 hrs 35 mins      █████████████████████████   100.0%
+VS Code                  14 hrs 13 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      15 hrs 35 mins      █████████████████████████   100.0%
+Mac                      14 hrs 13 mins      █████████████████████████   100.0%
 
 ```
 
