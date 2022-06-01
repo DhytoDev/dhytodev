@@ -1,4 +1,4 @@
-# Hi There, I'm Fordyta Abubakar a.k.a Dhyto 👋 👋  
+# Hi There, I'm Fordyta Abubakar a.k.a Dhyto 👋 👋 👋  
 
 <!--
 **DhytoDev/dhytodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
