@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C902%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C902%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-135%20Thousand%20lines%20of%20code-blue)
 
@@ -51,16 +51,15 @@ Sunday          54 commits       ██░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-Kotlin                   24 mins             ██████████████░░░░░░░░░░░   58.96 % 
-TOML                     15 mins             █████████░░░░░░░░░░░░░░░░   36.81 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Kotlin                   4 mins              ███████████████████░░░░░░   76.68 % 
+TOML                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Text                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
 
 🔥 Editors: 
-Android Studio           41 mins             █████████████████████████   100.00 % 
+Android Studio           6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      41 mins             █████████████████████████   100.00 % 
+Mac                      6 mins              █████████████████████████   100.00 % 
 
 ```
 
@@ -76,5 +75,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/02/2023 22:20:00 UTC
+ Last Updated on 15/02/2023 22:23:02 UTC
 <!--END_SECTION:waka-->
