@@ -49,13 +49,14 @@ Sunday                   3887 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Makassar
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     2 mins              ██████████████████░░░░░░░   71.32 % 
+Properties               0 secs              ███████░░░░░░░░░░░░░░░░░░   28.68 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -70,5 +71,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/04/2023 22:15:57 UTC
+ Last Updated on 28/04/2023 22:16:43 UTC
 <!--END_SECTION:waka-->
