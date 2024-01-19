@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C243%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C243%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -55,8 +55,8 @@ Markdown                 0 secs              ░░░░░░░░░░░�
 SqlDelight               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Android Studio           2 hrs 10 mins       █████████████░░░░░░░░░░░░   53.79 % 
-Studio                   1 hr 52 mins        ████████████░░░░░░░░░░░░░   46.21 % 
+Android Studio           2 hrs 10 mins       █████████████░░░░░░░░░░░░   53.80 % 
+Studio                   1 hr 52 mins        ████████████░░░░░░░░░░░░░   46.20 % 
 
 💻 Operating System: 
 Mac                      4 hrs 3 mins        █████████████████████████   100.00 % 
@@ -74,5 +74,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/01/2024 22:19:19 UTC
+ Last Updated on 19/01/2024 22:18:26 UTC
 <!--END_SECTION:waka-->
