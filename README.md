@@ -20,42 +20,6 @@ Here are some ideas to get you started:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.0%20million%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                15513 commits       ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
-🌆 Daytime                19774 commits       ████████░░░░░░░░░░░░░░░░░   30.99 % 
-🌃 Evening                16020 commits       ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
-🌙 Night                  12496 commits       █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   9878 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-Tuesday                  10976 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Wednesday                12702 commits       █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
-Thursday                 11142 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Friday                   9606 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Saturday                 4492 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Sunday                   5007 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Makassar
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -68,5 +32,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2025 22:23:22 UTC
+ Last Updated on 03/11/2025 22:24:26 UTC
 <!--END_SECTION:waka-->
